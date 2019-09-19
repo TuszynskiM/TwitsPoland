@@ -1,0 +1,22 @@
+{
+  "name": "twit-pol-server",
+  "version": "1.0.0",
+  "description": "Server to get data from twitter polska",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuszynskiM/TwetPol.git"
+  },
+  "author": "tuszynskiM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuszynskiM/TwetPol/issues"
+  },
+  "homepage": "https://github.com/TuszynskiM/TwetPol#readme",
+  "dependencies": {
+    "oauth": "^0.9.15"
+  }
+}
